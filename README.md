@@ -1,4 +1,4 @@
-#project title
+project title
 
 ##project description: 
 For this project, I want to create an interactive webpage that explores pulp magazine cover art in speculative fiction from the 1920s to the 1950s, paying focus on how women artists and writers influenced the art and writing in pulp magazines and used the medium to push against traditional norms. 
